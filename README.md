@@ -1,2 +1,2 @@
 # lin_git_test
-This is for git command test usage
+This is for git command test usage, please use it.
